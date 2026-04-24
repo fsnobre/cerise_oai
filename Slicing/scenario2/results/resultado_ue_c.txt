@@ -1,0 +1,29 @@
+Connecting to host 192.168.70.145, port 5204
+[  5] local 192.168.70.156 port 46415 connected to 192.168.70.145 port 5204
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  11.9 MBytes  99.9 Mbits/sec  8626  
+[  5]   1.00-2.00   sec  11.9 MBytes   100 Mbits/sec  8633  
+[  5]   2.00-3.00   sec  11.9 MBytes   100 Mbits/sec  8632  
+[  5]   3.00-4.00   sec  11.9 MBytes   100 Mbits/sec  8633  
+[  5]   4.00-5.00   sec  11.9 MBytes   100 Mbits/sec  8633  
+[  5]   5.00-6.00   sec  11.9 MBytes   100 Mbits/sec  8632  
+[  5]   6.00-7.00   sec  11.9 MBytes   100 Mbits/sec  8633  
+[  5]   7.00-8.00   sec  11.9 MBytes   100 Mbits/sec  8632  
+[  5]   8.00-9.00   sec  11.9 MBytes   100 Mbits/sec  8633  
+[  5]   9.00-10.00  sec  11.9 MBytes   100 Mbits/sec  8633  
+[  5]  10.00-11.00  sec  11.9 MBytes   100 Mbits/sec  8632  
+[  5]  11.00-12.00  sec  11.9 MBytes   100 Mbits/sec  8633  
+[  5]  12.00-13.00  sec  11.9 MBytes   100 Mbits/sec  8632  
+[  5]  13.00-14.00  sec  11.9 MBytes   100 Mbits/sec  8633  
+[  5]  14.00-15.00  sec  11.9 MBytes   100 Mbits/sec  8632  
+[  5]  15.00-16.00  sec  11.9 MBytes   100 Mbits/sec  8633  
+[  5]  16.00-17.00  sec  11.9 MBytes   100 Mbits/sec  8633  
+[  5]  17.00-18.00  sec  11.9 MBytes   100 Mbits/sec  8632  
+[  5]  18.00-19.00  sec  11.9 MBytes   100 Mbits/sec  8633  
+[  5]  19.00-20.00  sec  11.9 MBytes   100 Mbits/sec  8632  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-20.00  sec   238 MBytes   100 Mbits/sec  0.000 ms  0/172645 (0%)  sender
+[  5]   0.00-20.04  sec   238 MBytes  99.8 Mbits/sec  0.007 ms  0/172645 (0%)  receiver
+
+iperf Done.

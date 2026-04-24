@@ -1,0 +1,29 @@
+Connecting to host 192.168.70.145, port 5103
+[  5] local 192.168.70.156 port 40119 connected to 192.168.70.145 port 5103
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec   119 MBytes   999 Mbits/sec  86264  
+[  5]   1.00-2.00   sec   119 MBytes  1.00 Gbits/sec  86334  
+[  5]   2.00-3.00   sec   119 MBytes  1.00 Gbits/sec  86350  
+[  5]   3.00-4.00   sec   119 MBytes  1.00 Gbits/sec  86325  
+[  5]   4.00-5.00   sec   119 MBytes  1000 Mbits/sec  86301  
+[  5]   5.00-6.00   sec   119 MBytes  1.00 Gbits/sec  86360  
+[  5]   6.00-7.00   sec   119 MBytes  1.00 Gbits/sec  86329  
+[  5]   7.00-8.00   sec   119 MBytes  1000 Mbits/sec  86309  
+[  5]   8.00-9.00   sec   119 MBytes  1000 Mbits/sec  86304  
+[  5]   9.00-10.00  sec   119 MBytes  1.00 Gbits/sec  86371  
+[  5]  10.00-11.00  sec   119 MBytes   999 Mbits/sec  86277  
+[  5]  11.00-12.00  sec   119 MBytes  1.00 Gbits/sec  86385  
+[  5]  12.00-13.00  sec   119 MBytes   999 Mbits/sec  86253  
+[  5]  13.00-14.00  sec   119 MBytes  1.00 Gbits/sec  86337  
+[  5]  14.00-15.00  sec   119 MBytes  1.00 Gbits/sec  86371  
+[  5]  15.00-16.00  sec   119 MBytes  1000 Mbits/sec  86291  
+[  5]  16.00-17.00  sec   119 MBytes  1000 Mbits/sec  86320  
+[  5]  17.00-18.00  sec   119 MBytes  1.00 Gbits/sec  86341  
+[  5]  18.00-19.00  sec   119 MBytes  1000 Mbits/sec  86310  
+[  5]  19.00-20.00  sec   119 MBytes  1.00 Gbits/sec  86331  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-20.00  sec  2.33 GBytes  1000 Mbits/sec  0.000 ms  0/1726463 (0%)  sender
+[  5]   0.00-20.04  sec  2.33 GBytes   998 Mbits/sec  0.000 ms  522/1726463 (0.03%)  receiver
+
+iperf Done.
